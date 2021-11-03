@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Hun vào đây <3',
     reply: 'Yêu anh hấp vì để anh làm culi cả đời cho em ạ <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều lợn hấp ạaa 😘😘',
-    messDesc: 'Tối nay 10 rưỡi call iuu thương nha.',
+    messDesc: 'Tối nay call iuu thương nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
